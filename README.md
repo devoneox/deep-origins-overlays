@@ -1,6 +1,6 @@
 ![Deep Origins Overlays Pack](https://cdn.modrinth.com/data/cached_images/d916973cd020d1374a795f68e3d4e6a7588c4c58.png)
 
-[![Available on CurseForge](https://cdn.modrinth.com/data/cached_images/0115db48e5f0f3e08ee5064bb15fb5d28f19558a.png)][CurseForge][![Available on Modrinth](https://media.forgecdn.net/attachments/description/976485/description_6b3c5758-9a6d-4923-989d-aebc2a32921f.png)][Modrinth]
+[![Available on CurseForge](https://cdn.modrinth.com/data/cached_images/0115db48e5f0f3e08ee5064bb15fb5d28f19558a.png)][CurseForge][![Available on Modrinth](https://media.forgecdn.net/attachments/description/976485/description_6b3c5758-9a6d-4923-989d-aebc2a32921f.png)][Modrinth][![Join my Discord Server !](https://cdn.modrinth.com/data/cached_images/76439ca509e8b0166adfcab1331cbce147911914.png)][Discord]
 
 ![Requires OptiFine or Continuity](https://cdn.modrinth.com/data/cached_images/c839058144529911f09e6c3260f4f1a2dd9a07e6.png)
 
@@ -13,3 +13,4 @@ Feel free tu re-use this conctent in any of your projects, as long as you credit
 [Modrinth]:https://modrinth.com/resourcepack/deep-origins-overlays
 [OptiFine]:https://optifine.net/downloads
 [continuity]:https://modrinth.com/mod/continuity
+[Discord]:https://discord.gg/Rma6zdg9zS
