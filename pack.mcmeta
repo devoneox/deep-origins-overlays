@@ -1,7 +1,7 @@
 {
     "pack": {
-        "pack_format": 15,
-        "supported_formats": {"min_inclusive": 15,"max_inclusive": 34},
+        "pack_format": 34,
+        "supported_formats": {"min_inclusive": 7,"max_inclusive": 34},
         "description": "§9§lDeep origins overlays§r  §4Needs Optifine§r | §oBy Devoneox"
     }
 }
